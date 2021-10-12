@@ -3,3 +3,4 @@ The long awaited r34 and converted for fivem since no one wants to be nice and s
 
 ENJOY :)
 -Torch
+Shout out and credit to "NoHz" for the single player version! give some love!
