@@ -3,7 +3,7 @@ The long awaited r34 and converted for fivem since no one wants to be nice and s
 
 Step 1. Remove all files out of resource lua folder so that only stream is in a folder 
 
-Step 2. Create __resource.lua text file in the folder and copy and past the code below starting from resource manifest down to the last data_file.
+Step 2. Create __resource.lua text file in the main folder so only stream has a folder delete old resource lua folder, then copy and paste the code below starting from resource manifest down to the last data_file.
 
 Step 3. Enjoy :)
 
